@@ -2,7 +2,7 @@
 
 A lightweight, serverless web app that calculates exponents (`base ^ power`) in real time — built to explore a full AWS serverless architecture end-to-end, from static frontend hosting to a REST API backed by a NoSQL database.
 
-**🔗 Live demo:** [staging.drpc7v0uo6b3g.amplifyapp.com](https://staging.drpc7v0uo6b3g.amplifyapp.com)
+**🔗 Live demo:** [power-of-math-serverless-app](https://github.com/sumit4537/power-of-math-serverless-app/tree/main)
 
 ---
 
